@@ -30,8 +30,8 @@ pip install torch torchaudio jupyter numpy matplotlib
 ## Data
 To train the model, you can use public datasets like:
 
-LJ Speech Dataset [Link Text](URL)
-Mozilla Common Voice [..]([URL](https://commonvoice.mozilla.org/en))
+LJ Speech Dataset 
+Mozilla Common Voice ([URL](https://commonvoice.mozilla.org/en))
 ( Please follow the dataset's licensing requirements. )
 
 ## Acknowledgements
