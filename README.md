@@ -24,13 +24,13 @@ To run the notebook, you will need the following dependencies:
 - Vocoder Integration: A WaveNet vocoder is used to generate audio waveforms from the mel spectrograms.
 - Training and Inference: It includes sections for training the model and performing inference for new text inputs.
 - You can install the required packages using:
-```bash pip install torch torchaudio jupyter numpy matplotlib
+```bash pip install torch torchaudio jupyter numpy matplotlib```
 
 ## Data
 To train the model, you can use public datasets like:
 
 LJ Speech Dataset , 
-Mozilla Common Voice ([URL](https://commonvoice.mozilla.org/en))
+Mozilla Common Voice (https://commonvoice.mozilla.org/en)
 ( Please follow the dataset's licensing requirements. )
 
 ## Acknowledgements
